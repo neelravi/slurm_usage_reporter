@@ -1,0 +1,5 @@
+*~
+\#*\#
+build/
+dist/
+slurm_usage_reporter.egg-info/
